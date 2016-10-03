@@ -1,0 +1,14 @@
+<?php 
+	require_once('fatiado/topo.php');
+	require_once('slider.php');
+	require_once('evento.php');
+	require_once('programacao.php');
+	require_once('inscricoes.php');
+	require_once('palestrantes.php');
+	require_once('inscricoesonline.php');
+	require_once('comissao.php');
+	require_once('trabalhos.php');
+	require_once('apoio.php');
+	require_once('local.php');
+	require_once('fatiado/rodape.php'); 
+?>
